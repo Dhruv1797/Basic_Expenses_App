@@ -1,0 +1,4 @@
+# expenses_app
+BASIC EXPENSES_FLUTTER_APP
+
+
